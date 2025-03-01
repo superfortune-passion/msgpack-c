@@ -1,2 +1,3 @@
 1|feat: add msgpack packer buffer growth strategy
 2|feat: implement unpacker streaming read loop
+3|feat: support fixint encoding path
