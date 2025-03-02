@@ -2,3 +2,4 @@
 2|feat: implement unpacker streaming read loop
 3|feat: support fixint encoding path
 4|feat: add fixstr header writer
+5|feat: implement nil type serializer
