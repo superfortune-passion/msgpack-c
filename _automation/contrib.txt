@@ -3,3 +3,4 @@
 3|feat: support fixint encoding path
 4|feat: add fixstr header writer
 5|feat: implement nil type serializer
+6|feat: support boolean pack and unpack
