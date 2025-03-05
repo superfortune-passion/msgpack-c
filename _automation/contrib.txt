@@ -6,3 +6,4 @@
 6|feat: support boolean pack and unpack
 7|feat: add uint8 through uint64 encoders
 8|feat: implement int8 through int64 decoders
+9|feat: support float32 IEEE754 packing
