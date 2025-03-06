@@ -8,3 +8,4 @@
 8|feat: implement int8 through int64 decoders
 9|feat: support float32 IEEE754 packing
 10|feat: add float64 double precision unpack
+11|feat: implement bin8 bin16 bin32 writers
