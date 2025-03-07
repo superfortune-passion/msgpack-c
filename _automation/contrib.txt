@@ -10,3 +10,4 @@
 10|feat: add float64 double precision unpack
 11|feat: implement bin8 bin16 bin32 writers
 12|feat: support ext8 ext16 ext32 type headers
+13|feat: add fixarray length prefix encoder
