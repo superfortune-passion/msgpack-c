@@ -14,3 +14,4 @@
 14|feat: implement array16 array32 container unpack
 15|feat: support fixmap key-value packing
 16|feat: add map16 map32 dictionary encoder
+17|feat: implement timestamp extension type 32
