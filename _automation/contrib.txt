@@ -16,3 +16,4 @@
 16|feat: add map16 map32 dictionary encoder
 17|feat: implement timestamp extension type 32
 18|feat: support timestamp extension type 64
+19|feat: add timestamp extension type 96
