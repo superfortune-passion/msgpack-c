@@ -18,3 +18,4 @@
 18|feat: support timestamp extension type 64
 19|feat: add timestamp extension type 96
 20|feat: implement zone memory pool allocator
+21|feat: support zone chunk reuse on reset
