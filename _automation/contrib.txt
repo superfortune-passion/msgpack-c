@@ -20,3 +20,4 @@
 20|feat: implement zone memory pool allocator
 21|feat: support zone chunk reuse on reset
 22|feat: add vrefbuffer reference tracking
+23|feat: implement sbuffer dynamic resize
