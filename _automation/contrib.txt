@@ -22,3 +22,4 @@
 22|feat: add vrefbuffer reference tracking
 23|feat: implement sbuffer dynamic resize
 24|feat: support fbuffer file-backed buffer
+25|feat: add unpacker next object iterator
