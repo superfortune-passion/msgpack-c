@@ -23,3 +23,4 @@
 23|feat: implement sbuffer dynamic resize
 24|feat: support fbuffer file-backed buffer
 25|feat: add unpacker next object iterator
+26|feat: implement packer flush to callback
