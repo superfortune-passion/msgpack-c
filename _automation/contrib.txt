@@ -24,3 +24,4 @@
 24|feat: support fbuffer file-backed buffer
 25|feat: add unpacker next object iterator
 26|feat: implement packer flush to callback
+27|feat: support user-defined extension types
