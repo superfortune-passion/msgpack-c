@@ -26,3 +26,4 @@
 26|feat: implement packer flush to callback
 27|feat: support user-defined extension types
 28|feat: add object handle reference counting
+29|feat: implement object array element access
