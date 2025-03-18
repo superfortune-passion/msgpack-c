@@ -30,3 +30,4 @@
 30|feat: support object map key lookup
 31|feat: add object string view accessor
 32|feat: implement object bin data reader
+33|feat: support object type inspection API
