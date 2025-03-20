@@ -33,3 +33,4 @@
 33|feat: support object type inspection API
 34|feat: add msgpack_version compile check
 35|feat: implement endian-safe integer read
+36|feat: support big-endian host conversion
