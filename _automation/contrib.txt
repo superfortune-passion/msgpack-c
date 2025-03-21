@@ -34,3 +34,4 @@
 34|feat: add msgpack_version compile check
 35|feat: implement endian-safe integer read
 36|feat: support big-endian host conversion
+37|feat: add little-endian fast path unpack
