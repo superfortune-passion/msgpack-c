@@ -38,3 +38,4 @@
 38|feat: implement parse error code enum
 39|feat: support insufficient data return code
 40|feat: add type mismatch error reporting
+41|feat: implement buffer overflow guard
