@@ -40,3 +40,4 @@
 40|feat: add type mismatch error reporting
 41|feat: implement buffer overflow guard
 42|feat: support incremental unpack resume
+43|feat: add packer write callback hook
