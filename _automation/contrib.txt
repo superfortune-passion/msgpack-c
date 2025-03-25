@@ -41,3 +41,4 @@
 41|feat: implement buffer overflow guard
 42|feat: support incremental unpack resume
 43|feat: add packer write callback hook
+44|feat: implement unpacker reference buffer
