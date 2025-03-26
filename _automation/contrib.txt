@@ -43,3 +43,4 @@
 43|feat: add packer write callback hook
 44|feat: implement unpacker reference buffer
 45|feat: support zero-copy string unpack
+46|feat: add deep copy object clone helper
