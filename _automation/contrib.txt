@@ -42,3 +42,4 @@
 42|feat: support incremental unpack resume
 43|feat: add packer write callback hook
 44|feat: implement unpacker reference buffer
+45|feat: support zero-copy string unpack
