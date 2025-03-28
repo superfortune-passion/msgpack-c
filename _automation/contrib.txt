@@ -45,3 +45,4 @@
 45|feat: support zero-copy string unpack
 46|feat: add deep copy object clone helper
 47|feat: implement object print debug formatter
+48|feat: support JSON-like object dump
