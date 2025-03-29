@@ -47,3 +47,4 @@
 47|feat: implement object print debug formatter
 48|feat: support JSON-like object dump
 49|feat: add versioned API compatibility layer
+50|feat: implement C++11 unique_ptr adapter
