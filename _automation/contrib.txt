@@ -50,3 +50,4 @@
 50|feat: implement C++11 unique_ptr adapter
 51|feat: support std string pack overload
 52|feat: add std vector serialization helper
+53|feat: implement std map pack template
