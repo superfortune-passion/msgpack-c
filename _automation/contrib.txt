@@ -52,3 +52,4 @@
 52|feat: add std vector serialization helper
 53|feat: implement std map pack template
 54|feat: support std optional type adapter
+55|feat: add std variant pack support stub
