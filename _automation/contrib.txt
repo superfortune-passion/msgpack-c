@@ -54,3 +54,4 @@
 54|feat: support std optional type adapter
 55|feat: add std variant pack support stub
 56|feat: implement adaptor macro for custom types
+57|feat: support DEFINE_PACK macro helper
