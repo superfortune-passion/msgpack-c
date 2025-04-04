@@ -59,3 +59,4 @@
 59|feat: implement type trait detection
 60|feat: support enum class packing
 61|feat: add chrono time_point adapter
+62|feat: implement duration serialization
