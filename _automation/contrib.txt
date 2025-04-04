@@ -60,3 +60,4 @@
 60|feat: support enum class packing
 61|feat: add chrono time_point adapter
 62|feat: implement duration serialization
+63|feat: support nested struct reflection
