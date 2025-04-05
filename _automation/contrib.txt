@@ -61,3 +61,4 @@
 61|feat: add chrono time_point adapter
 62|feat: implement duration serialization
 63|feat: support nested struct reflection
+64|feat: add array size limit configuration
