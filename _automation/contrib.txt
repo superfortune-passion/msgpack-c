@@ -62,3 +62,4 @@
 62|feat: implement duration serialization
 63|feat: support nested struct reflection
 64|feat: add array size limit configuration
+65|feat: implement map depth limit guard
