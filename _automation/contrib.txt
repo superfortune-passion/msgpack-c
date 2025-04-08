@@ -67,3 +67,4 @@
 67|feat: add max bin size validation
 68|feat: implement extension size cap
 69|feat: support streaming socket unpacker
+70|feat: add file descriptor packer backend
