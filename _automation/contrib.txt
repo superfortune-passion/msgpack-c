@@ -68,3 +68,4 @@
 68|feat: implement extension size cap
 69|feat: support streaming socket unpacker
 70|feat: add file descriptor packer backend
+71|feat: implement circular buffer reader
