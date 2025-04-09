@@ -69,3 +69,4 @@
 69|feat: support streaming socket unpacker
 70|feat: add file descriptor packer backend
 71|feat: implement circular buffer reader
+72|feat: support partial read retry logic
