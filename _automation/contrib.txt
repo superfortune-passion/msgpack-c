@@ -70,3 +70,4 @@
 70|feat: add file descriptor packer backend
 71|feat: implement circular buffer reader
 72|feat: support partial read retry logic
+73|feat: add unpacker buffer compacting
