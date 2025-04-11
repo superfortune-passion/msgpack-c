@@ -72,3 +72,4 @@
 72|feat: support partial read retry logic
 73|feat: add unpacker buffer compacting
 74|feat: implement packer reserve hint API
+75|feat: support preallocated buffer pack
