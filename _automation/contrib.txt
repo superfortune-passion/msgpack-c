@@ -74,3 +74,4 @@
 74|feat: implement packer reserve hint API
 75|feat: support preallocated buffer pack
 76|feat: add stack buffer small object path
+77|feat: implement inline fixint fast unpack
