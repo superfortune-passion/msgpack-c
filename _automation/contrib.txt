@@ -78,3 +78,4 @@
 78|feat: support branch prediction hints
 79|feat: add SIMD-friendly alignment checks
 80|feat: implement unaligned access fallback
+81|feat: support MSVC warning suppression block
