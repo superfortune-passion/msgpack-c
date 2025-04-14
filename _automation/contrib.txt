@@ -77,3 +77,4 @@
 77|feat: implement inline fixint fast unpack
 78|feat: support branch prediction hints
 79|feat: add SIMD-friendly alignment checks
+80|feat: implement unaligned access fallback
