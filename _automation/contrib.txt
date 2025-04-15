@@ -80,3 +80,4 @@
 80|feat: implement unaligned access fallback
 81|feat: support MSVC warning suppression block
 82|feat: add GCC attribute packed structs
+83|feat: implement CMake option MSGPACK_BUILD_TESTS
