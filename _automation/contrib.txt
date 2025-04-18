@@ -82,3 +82,4 @@
 82|feat: add GCC attribute packed structs
 83|feat: implement CMake option MSGPACK_BUILD_TESTS
 84|feat: support CMake install target export
+85|feat: add pkg-config file generation
