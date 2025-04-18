@@ -83,3 +83,4 @@
 83|feat: implement CMake option MSGPACK_BUILD_TESTS
 84|feat: support CMake install target export
 85|feat: add pkg-config file generation
+86|feat: implement amalgamation header bundle
