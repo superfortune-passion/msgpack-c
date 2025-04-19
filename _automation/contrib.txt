@@ -85,3 +85,4 @@
 85|feat: add pkg-config file generation
 86|feat: implement amalgamation header bundle
 87|feat: support single-header include mode
+88|feat: add version header MSGPACK_VERSION
