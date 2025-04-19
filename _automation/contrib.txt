@@ -84,3 +84,4 @@
 84|feat: support CMake install target export
 85|feat: add pkg-config file generation
 86|feat: implement amalgamation header bundle
+87|feat: support single-header include mode
