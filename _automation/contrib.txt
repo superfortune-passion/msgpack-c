@@ -87,3 +87,4 @@
 87|feat: support single-header include mode
 88|feat: add version header MSGPACK_VERSION
 89|feat: implement namespace msgpack alias
+90|feat: support C linkage unpack entry
