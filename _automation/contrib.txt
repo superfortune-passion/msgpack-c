@@ -89,3 +89,4 @@
 89|feat: implement namespace msgpack alias
 90|feat: support C linkage unpack entry
 91|feat: add deprecated API attribute markers
+92|feat: implement backward compat shims
