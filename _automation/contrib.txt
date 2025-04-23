@@ -92,3 +92,4 @@
 92|feat: implement backward compat shims
 93|feat: support legacy v1 object API
 94|feat: add migration guide code comments
+95|feat: implement example simple pack demo
