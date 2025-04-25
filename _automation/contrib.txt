@@ -95,3 +95,4 @@
 95|feat: implement example simple pack demo
 96|feat: support example stream unpack demo
 97|feat: add example custom type adaptor
+98|feat: implement example zone usage sample
