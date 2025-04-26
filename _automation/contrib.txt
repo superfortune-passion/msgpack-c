@@ -97,3 +97,4 @@
 97|feat: add example custom type adaptor
 98|feat: implement example zone usage sample
 99|feat: support example socket server stub
+100|feat: add benchmark pack throughput test
