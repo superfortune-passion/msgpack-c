@@ -101,3 +101,4 @@
 101|feat: implement benchmark unpack latency
 102|feat: support fuzz input corpus seed
 103|feat: add unit test fixint roundtrip
+104|feat: implement unit test array nesting
