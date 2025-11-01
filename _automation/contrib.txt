@@ -106,3 +106,4 @@
 106|feat: add unit test extension timestamp
 107|feat: implement unit test buffer overflow
 108|feat: support CI matrix gcc clang msvc
+109|feat: add sanitizer build configuration
