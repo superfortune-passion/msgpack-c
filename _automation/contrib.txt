@@ -108,3 +108,4 @@
 108|feat: support CI matrix gcc clang msvc
 109|feat: add sanitizer build configuration
 110|feat: implement valgrind suppressions file
+111|feat: support cross-compile ARM toolchain
