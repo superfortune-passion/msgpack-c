@@ -111,3 +111,4 @@
 111|feat: support cross-compile ARM toolchain
 112|feat: add WASM emscripten build note
 113|feat: implement Android NDK compile flags
+114|feat: support iOS universal binary config
