@@ -112,3 +112,4 @@
 112|feat: add WASM emscripten build note
 113|feat: implement Android NDK compile flags
 114|feat: support iOS universal binary config
+115|feat: add Windows static library target
