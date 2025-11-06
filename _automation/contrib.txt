@@ -114,3 +114,4 @@
 114|feat: support iOS universal binary config
 115|feat: add Windows static library target
 116|feat: implement shared library export macros
+117|feat: support DLL import export attributes
