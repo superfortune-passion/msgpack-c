@@ -116,3 +116,4 @@
 116|feat: implement shared library export macros
 117|feat: support DLL import export attributes
 118|feat: add README quickstart code snippet
+119|feat: implement CHANGELOG release entry format
