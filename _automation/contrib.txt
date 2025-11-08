@@ -117,3 +117,4 @@
 117|feat: support DLL import export attributes
 118|feat: add README quickstart code snippet
 119|feat: implement CHANGELOG release entry format
+120|feat: support semantic versioning tag scheme
