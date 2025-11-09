@@ -118,3 +118,4 @@
 118|feat: add README quickstart code snippet
 119|feat: implement CHANGELOG release entry format
 120|feat: support semantic versioning tag scheme
+121|feat: add CONTRIBUTING build instructions
