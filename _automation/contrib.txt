@@ -120,3 +120,4 @@
 120|feat: support semantic versioning tag scheme
 121|feat: add CONTRIBUTING build instructions
 122|feat: implement issue template for bugs
+123|feat: support security policy disclosure
