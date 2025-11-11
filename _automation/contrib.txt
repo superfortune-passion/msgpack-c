@@ -122,3 +122,4 @@
 122|feat: implement issue template for bugs
 123|feat: support security policy disclosure
 124|feat: add license header to source files
+125|feat: implement Doxygen API doc stub
