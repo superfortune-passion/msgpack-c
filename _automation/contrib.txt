@@ -123,3 +123,4 @@
 123|feat: support security policy disclosure
 124|feat: add license header to source files
 125|feat: implement Doxygen API doc stub
+126|feat: support wiki tutorial cross-link
