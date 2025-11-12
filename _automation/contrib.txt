@@ -124,3 +124,4 @@
 124|feat: add license header to source files
 125|feat: implement Doxygen API doc stub
 126|feat: support wiki tutorial cross-link
+127|feat: add codecov coverage badge config
