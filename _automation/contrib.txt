@@ -125,3 +125,4 @@
 125|feat: implement Doxygen API doc stub
 126|feat: support wiki tutorial cross-link
 127|feat: add codecov coverage badge config
+128|feat: implement AppVeyor Windows pipeline
