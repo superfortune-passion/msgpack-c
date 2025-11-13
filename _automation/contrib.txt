@@ -127,3 +127,4 @@
 127|feat: add codecov coverage badge config
 128|feat: implement AppVeyor Windows pipeline
 129|feat: support Travis legacy config note
+130|feat: add GitHub Actions workflow matrix
