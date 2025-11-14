@@ -129,3 +129,4 @@
 129|feat: support Travis legacy config note
 130|feat: add GitHub Actions workflow matrix
 131|feat: implement release tarball script
+132|feat: support nuget package metadata stub
