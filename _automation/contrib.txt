@@ -130,3 +130,4 @@
 130|feat: add GitHub Actions workflow matrix
 131|feat: implement release tarball script
 132|feat: support nuget package metadata stub
+133|feat: add vcpkg portfile reference
