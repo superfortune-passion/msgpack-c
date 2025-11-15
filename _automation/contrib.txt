@@ -131,3 +131,4 @@
 131|feat: implement release tarball script
 132|feat: support nuget package metadata stub
 133|feat: add vcpkg portfile reference
+134|feat: implement conan recipe companion
