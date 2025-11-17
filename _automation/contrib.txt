@@ -134,3 +134,4 @@
 134|feat: implement conan recipe companion
 135|feat: support homebrew formula snippet
 136|feat: add docker build environment file
+137|feat: implement fuzzing oss-fuzz config
