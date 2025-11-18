@@ -136,3 +136,4 @@
 136|feat: add docker build environment file
 137|feat: implement fuzzing oss-fuzz config
 138|feat: support reproducible build flags
+139|feat: add object pool size tuning constant
