@@ -137,3 +137,4 @@
 137|feat: implement fuzzing oss-fuzz config
 138|feat: support reproducible build flags
 139|feat: add object pool size tuning constant
+140|feat: implement unpacker initial buffer size
