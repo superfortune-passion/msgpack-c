@@ -138,3 +138,4 @@
 138|feat: support reproducible build flags
 139|feat: add object pool size tuning constant
 140|feat: implement unpacker initial buffer size
+141|feat: support packer default buffer capacity
