@@ -140,3 +140,4 @@
 140|feat: implement unpacker initial buffer size
 141|feat: support packer default buffer capacity
 142|feat: add zone initial chunk size option
+143|feat: implement memory usage statistics hook
