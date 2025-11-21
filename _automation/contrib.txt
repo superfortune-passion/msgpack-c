@@ -139,3 +139,4 @@
 139|feat: add object pool size tuning constant
 140|feat: implement unpacker initial buffer size
 141|feat: support packer default buffer capacity
+142|feat: add zone initial chunk size option
