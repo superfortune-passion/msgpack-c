@@ -141,3 +141,4 @@
 141|feat: support packer default buffer capacity
 142|feat: add zone initial chunk size option
 143|feat: implement memory usage statistics hook
+144|feat: support custom allocator injection
