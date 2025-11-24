@@ -145,3 +145,4 @@
 145|feat: add realloc fallback for embedded
 146|feat: implement static buffer no-malloc mode
 147|feat: support RTOS minimal footprint build
+148|feat: add compile-time disable C++ adapter
