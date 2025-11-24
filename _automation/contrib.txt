@@ -144,3 +144,4 @@
 144|feat: support custom allocator injection
 145|feat: add realloc fallback for embedded
 146|feat: implement static buffer no-malloc mode
+147|feat: support RTOS minimal footprint build
