@@ -147,3 +147,4 @@
 147|feat: support RTOS minimal footprint build
 148|feat: add compile-time disable C++ adapter
 149|feat: implement C-only library subset
+150|feat: support header-only C++ distribution
