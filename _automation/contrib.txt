@@ -148,3 +148,4 @@
 148|feat: add compile-time disable C++ adapter
 149|feat: implement C-only library subset
 150|feat: support header-only C++ distribution
+151|feat: add inline function optimization hints
