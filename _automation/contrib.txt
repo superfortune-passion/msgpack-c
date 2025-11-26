@@ -149,3 +149,4 @@
 149|feat: implement C-only library subset
 150|feat: support header-only C++ distribution
 151|feat: add inline function optimization hints
+152|feat: implement likely unlikely macros
