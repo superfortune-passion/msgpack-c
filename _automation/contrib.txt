@@ -151,3 +151,4 @@
 151|feat: add inline function optimization hints
 152|feat: implement likely unlikely macros
 153|feat: support configurable assert handler
+154|feat: add debug trace unpack logging
