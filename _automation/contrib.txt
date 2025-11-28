@@ -153,3 +153,4 @@
 153|feat: support configurable assert handler
 154|feat: add debug trace unpack logging
 155|feat: implement verbose pack hex dump
+156|feat: support conditional debug builds
