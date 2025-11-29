@@ -155,3 +155,4 @@
 155|feat: implement verbose pack hex dump
 156|feat: support conditional debug builds
 157|feat: add error string table lookup
+158|feat: implement strerror wrapper for codes
