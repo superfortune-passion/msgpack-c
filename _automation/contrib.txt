@@ -156,3 +156,4 @@
 156|feat: support conditional debug builds
 157|feat: add error string table lookup
 158|feat: implement strerror wrapper for codes
+159|feat: support locale-independent parsing
