@@ -158,3 +158,4 @@
 158|feat: implement strerror wrapper for codes
 159|feat: support locale-independent parsing
 160|feat: add UTF-8 validation on str unpack
+161|feat: implement surrogate pair rejection
