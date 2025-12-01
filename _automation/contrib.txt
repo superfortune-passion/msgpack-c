@@ -159,3 +159,4 @@
 159|feat: support locale-independent parsing
 160|feat: add UTF-8 validation on str unpack
 161|feat: implement surrogate pair rejection
+162|feat: support raw bytes str mode toggle
