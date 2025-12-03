@@ -161,3 +161,4 @@
 161|feat: implement surrogate pair rejection
 162|feat: support raw bytes str mode toggle
 163|feat: add compatibility JSON transcoder stub
+164|feat: implement msgpack to JSON converter
