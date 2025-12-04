@@ -164,3 +164,4 @@
 164|feat: implement msgpack to JSON converter
 165|feat: support JSON to msgpack encoder
 166|feat: add schema-less dynamic object tree
+167|feat: implement object builder fluent API
