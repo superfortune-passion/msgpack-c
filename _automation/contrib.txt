@@ -166,3 +166,4 @@
 166|feat: add schema-less dynamic object tree
 167|feat: implement object builder fluent API
 168|feat: support object array push helper
+169|feat: add object map insert helper
