@@ -165,3 +165,4 @@
 165|feat: support JSON to msgpack encoder
 166|feat: add schema-less dynamic object tree
 167|feat: implement object builder fluent API
+168|feat: support object array push helper
