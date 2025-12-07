@@ -169,3 +169,4 @@
 169|feat: add object map insert helper
 170|feat: implement object merge utility
 171|feat: support object diff comparison
+172|feat: add object equality operator
