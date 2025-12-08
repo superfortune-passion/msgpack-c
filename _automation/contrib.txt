@@ -171,3 +171,4 @@
 171|feat: support object diff comparison
 172|feat: add object equality operator
 173|feat: implement object hash for containers
+174|feat: support sort keys for canonical form
