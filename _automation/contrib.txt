@@ -170,3 +170,4 @@
 170|feat: implement object merge utility
 171|feat: support object diff comparison
 172|feat: add object equality operator
+173|feat: implement object hash for containers
