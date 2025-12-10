@@ -173,3 +173,4 @@
 173|feat: implement object hash for containers
 174|feat: support sort keys for canonical form
 175|feat: add canonical pack for signing
+176|feat: implement streaming hash while pack
