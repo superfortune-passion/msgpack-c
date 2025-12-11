@@ -175,3 +175,4 @@
 175|feat: add canonical pack for signing
 176|feat: implement streaming hash while pack
 177|feat: support incremental CRC over buffer
+178|feat: add network byte order helpers
