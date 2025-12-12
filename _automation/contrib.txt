@@ -178,3 +178,4 @@
 178|feat: add network byte order helpers
 179|feat: implement socket send pack helper
 180|feat: support recv unpack loop wrapper
+181|feat: add framed message length prefix
