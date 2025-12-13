@@ -180,3 +180,4 @@
 180|feat: support recv unpack loop wrapper
 181|feat: add framed message length prefix
 182|feat: implement RPC request response envelope
+183|feat: support notification message type
