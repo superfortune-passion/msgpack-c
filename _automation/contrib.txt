@@ -179,3 +179,4 @@
 179|feat: implement socket send pack helper
 180|feat: support recv unpack loop wrapper
 181|feat: add framed message length prefix
+182|feat: implement RPC request response envelope
