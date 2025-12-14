@@ -181,3 +181,4 @@
 181|feat: add framed message length prefix
 182|feat: implement RPC request response envelope
 183|feat: support notification message type
+184|feat: add heartbeat ping pong codec
