@@ -183,3 +183,4 @@
 183|feat: support notification message type
 184|feat: add heartbeat ping pong codec
 185|feat: implement batch array pack helper
+186|feat: support lazy unpack deferred parse
