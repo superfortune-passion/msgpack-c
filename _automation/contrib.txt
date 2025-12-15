@@ -182,3 +182,4 @@
 182|feat: implement RPC request response envelope
 183|feat: support notification message type
 184|feat: add heartbeat ping pong codec
+185|feat: implement batch array pack helper
