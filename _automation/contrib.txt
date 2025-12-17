@@ -187,3 +187,4 @@
 187|feat: add skip unknown field unpacker
 188|feat: implement selective field extraction
 189|feat: support default value on missing key
+190|feat: add optional field unpack macro
