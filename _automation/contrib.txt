@@ -189,3 +189,4 @@
 189|feat: support default value on missing key
 190|feat: add optional field unpack macro
 191|feat: implement required field validator
+192|feat: support schema version field check
