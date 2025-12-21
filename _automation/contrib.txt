@@ -192,3 +192,4 @@
 192|feat: support schema version field check
 193|feat: add forward compatible reader
 194|feat: implement backward compatible writer
+195|feat: support protocol version negotiation
