@@ -193,3 +193,4 @@
 193|feat: add forward compatible reader
 194|feat: implement backward compatible writer
 195|feat: support protocol version negotiation
+196|feat: add feature flag in map header
