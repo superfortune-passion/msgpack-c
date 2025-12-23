@@ -197,3 +197,4 @@
 197|feat: implement compression extension stub
 198|feat: support lz4 payload wrapper note
 199|feat: add zstd integration placeholder
+200|feat: implement size estimation before pack
